@@ -1,0 +1,40 @@
+.item-wrapper {
+    padding: 3px 5px;
+    background: #fff;
+    height: 24px;
+    background: rgb(12, 114, 231);
+    border-top: 2px solid #fff;
+    color:#fff;
+    overflow: hidden;
+}
+.item-checkbox {
+    float: left;
+}
+.item-content {
+    float: left;
+    font-size: 14px;
+    margin-left: 10px;
+    width: 150px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.item-btn {
+    height: 20px;
+    line-height: 20px;
+    float: right;
+    margin-right: 10px;
+    border: none;
+    color:rgb(91, 88, 88);
+    border-radius: 3px;
+    font-size: 12px;
+}
+.item-look {
+    background: rgb(187, 248, 4);
+}
+.item-edit {
+    background: rgb(16, 247, 4);
+}
+.item-delete {
+    background: rgb(244, 80, 4);
+}

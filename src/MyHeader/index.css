@@ -1,0 +1,18 @@
+.header-bar {
+    height: 49px;
+    padding: 0 20px;
+    font-weight: bold;
+    background: rgb(12, 114, 231);
+    color: aliceblue;
+    overflow: hidden;
+    line-height: 49px;
+}
+
+.header-title {
+    float: left;
+}
+
+.header-add {
+    float: right;
+    font-size: 30px;
+}
